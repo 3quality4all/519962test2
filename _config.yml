@@ -3,14 +3,7 @@ title: Registered Sex Perverters List
 description:  # this means to ignore newlines until "baseurl:"
   This is the global sex perverter's registry.
   A sex perverter is an individual who perverts the justice system in the case of laws against sex crimes.
-  We are now in a time where any person being accusesed of a crime where the nature is sexual is automatically presummed guilty.
-  This is a radicalist belief and it is scary that it is not being viewed as such and just like all radicalist beliefs this type
-  of thinking hinders the very cause it claims to be fighting for.
-  
-  Currently there is little to no just consequences for perverting the laws against sex crimes. 
-  This registry attemps to bring balance to thisWrite an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ (Falsely accusing someone of a sexual harassment or assault. Lying about being a victim of a sex crime.)
 permalink: ':title/'
 url: ''
 
@@ -19,21 +12,17 @@ video: # add banner video. Add your video file to the folder video
 banner-title: Registered Sex Perverters List # add banner title
 banner-desc: 
   This is the global sex perverter's registry.
-  A sex perverter is an individual who perverts the justice system in the case of laws against sex crimes.
-  We are now in a time where any person being accusesed of a crime where the nature is sexual is automatically presummed guilty.
-  This is a radicalist belief and it is scary that it is not being viewed as such and just like all radicalist beliefs this type
-  of thinking hinders the very cause it claims to be fighting for.
-  
+  A sex perverter is an individual who perverts the justice system in the case of laws against sex crimes.  
   Currently there is little to no just consequences for perverting the laws against sex crimes. 
-  This registry attemps to bring balance to this# add banner description
-
+  This registry displays the information of individuals who have filed false accusations of sex crimes the same way those individuals who were falsely accused would have had to register as a sex offender.
+  
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
-about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+author-name: Sex Perverter Registry # your name
+about-author: This registry displays the information of individuals who have filed false accusations of sex crimes the same way those individuals who were falsely accused would have had to register as a sex offender. # about author
+email: 123equality@gmail.com # your email
+#phone: (496)-169-6557 # your pnone number
+website: www.registerdsexperverters.com # you website
 
 # Social link
 google_url:    # add url link
