@@ -13,7 +13,7 @@ _________________________________________________________
 ## **Physical Description**
 #### Sex:           F
 #### Race:          White
-#### Hair:          Blonde:
+#### Hair:          Blonde
 #### Scars/Tattos:  Unknown
 #### Height:        Unknown
 #### Eyes:          Green
